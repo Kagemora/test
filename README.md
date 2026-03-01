@@ -6,3 +6,4 @@
 
 - mini test 1
 - mini test 2
+![tipo foto](snimok.PNG)
